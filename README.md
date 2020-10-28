@@ -5,7 +5,7 @@ Sou estudante de Ciência da Computação,
 Estou postando repositórios com algoritmos que faço durante minhas aulas,
 São simples por enquanto mas espero ajudar com algo,
 
-Caso tiver alguma dica, quiser trocar uma ideia me chama no Twitter (@MarcelBarreto),
+Caso tiver alguma dica ou quiser trocar uma ideia me chama no Twitter (@MarcelBarreto),
 
 Tipos de códigos:
 -Java;
@@ -23,7 +23,7 @@ I'm a Student of Computer science,
 I'm here posting repositories with some algorithms that I do during my classes,
 They're simple for now, but I hope help you with something,
 
-If you have a hint, or want to talk about something text me on Twitter (@MarcelBarreto),
+If you have a hint or want to talk about something text me on Twitter (@MarcelBarreto),
 
 Types of algorithms here:
 -Java;
