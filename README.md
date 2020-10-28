@@ -1,16 +1,31 @@
-### Hi there 👋
+Bom dia, Boa tarde, Boa noite e Boa madrugada pra você Dev,
 
-<!--
-**Marceggl/Marceggl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Ciência da Computação,
 
-Here are some ideas to get you started:
+Estou postando repositórios com algoritmos que faço durante minhas aulas,
+São simples por enquanto mas espero ajudar com algo,
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Caso tiver alguma dica, quiser trocar uma ideia me chama no Twitter (@MarcelBarreto),
+
+Tipos de códigos:
+*Java;
+*HTML;
+*CSS;
+*JavaScript;
+
+Bora fazer a Internet um cantinho melhor XD
+--------------------------------------------------
+
+Good Mornig, Good Afternoon and Good Night for you Dev,
+I'm a Student of Computer science,
+
+I'm here posting repositories with some algorithms that I do during my classes,
+They're simple for now, but I hope help you with something,
+
+If you have a hint, or want to talk about something text me on Twitter (@MarcelBarreto),
+
+Types of algorithms here:
+*Java;
+*HTML;
+*CSS;
+*JavaScript;
