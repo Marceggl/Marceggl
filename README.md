@@ -8,9 +8,13 @@ São simples por enquanto mas espero ajudar com algo,
 Caso tiver alguma dica, quiser trocar uma ideia me chama no Twitter (@MarcelBarreto),
 
 Tipos de códigos:
+
 -Java;
+
 -HTML;
+
 -CSS;
+
 -JavaScript;
 
 Bora fazer a Internet um cantinho melhor XD
@@ -26,10 +30,15 @@ They're simple for now, but I hope help you with something,
 If you have a hint, or want to talk about something text me on Twitter (@MarcelBarreto),
 
 Types of algorithms here:
+
 -Java;
+
 -HTML;
+
 -CSS;
+
 -JavaScript;
+
 
 Let's make the Internet a better place 😁
 --------------------------------------------------
