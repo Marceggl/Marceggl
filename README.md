@@ -1,8 +1,9 @@
 <p align="center">
-  Faço programação mais por Hobby  
+  Faço programação mais por Hobby e automatização 
 </p>
 
 ## ℹ️ Informações <a name="sobre"></a>
 
 - Focado em Python
-- Não sei muito a parte teorica da programação mas corro atrás
+- Ainda quero fazer algum jogo, nem que seja simples
+- Leigo em estrutura de dados e Engenharia de software
