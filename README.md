@@ -1,8 +1,3 @@
-<p align="center">
-  Faço programação mais por Hobby e automatização 
-</p>
+# Fala ai / What's uuuuuup 👻
 
-- Focado em Python
-- Ainda quero fazer algum jogo, nem que seja simples
-- Leigo em estrutura de dados e Engenharia de software
-- Uso o VSCode para programar
+[![Marceggl's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marceggl)](https://github.com/Marceggl/github-readme-stats)
